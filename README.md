@@ -1,6 +1,4 @@
 # Hi there 👋 my name is Kalem Wallace<br/>
-<p align="center">
-<img src="https://www.shutterstock.com/image-photo/cheerful-skateboarder-laptop-waving-hand-260nw-2075628700.jpg" /> 
  <h2> About Me </h2>
  I am a professional with a background in customer service (food & drink), actively trying to break into an IT career. Proficient in communication & teams. Experience with excellent customer service & resolving situations efficiently. <br/>
 - 🔭<b> I’m currently working on: </b> An active directory basics how-to <br/>
