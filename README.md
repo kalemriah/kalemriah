@@ -21,7 +21,7 @@
 <h2>Goals of 2023</h2>
 <b> CompTIA A+ certified </b> - ETA: 3/1/23 <br/>
 <b> Learn Power-shell and Python </b> - ETA: 6/1/23 <br/>
-<b> Microsoft Azure (AZ-900 Cert) </b> - ETA: 9/1/23 <br/>
+<b> CompTIA Netowork+ </b> - ETA: 9/1/23 <br/>
 <b> CompTIA Security+ certified </b> - ETA 12/1/23 <br/>
 
 
