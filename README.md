@@ -12,8 +12,8 @@
  I am a professional with a background in customer service (food & drink), actively trying to break into an IT career. Proficient in communication & teams. Experience with excellent customer service & resolving situations efficiently. <br/>
 - 🔭<b> I’m currently working on: </b> An active directory basics how-to <br/>
 - 🌱<b> I’m currently learning: </b> CompTIA A+ / Active Directory / DHCP / DNS / <br/>
-- 👯<b> I’m looking to collaborate on: </b> Futhering my IT skills and social networking <br/>
-- 🤔<b> I’m looking for help with: </b> Networking! (specifically the LinkedIn kind of netoworking) <br/>
+- 👯<b> I’m looking to collaborate on: </b> Furthering my IT skills and social networking <br/>
+- 🤔<b> I’m looking for help with: </b> Networking! (specifically the LinkedIn kind of networking) <br/>
 - 💬<b> Ask me about: </b> My experience with customer service! <br/>
 - 📫<b> How to reach me: </b> Send me a message on <a href="https://www.linkedin.com/in/kalem-wallace-3b499a256/">LinkedIn</a> <br/>
 - 😄<b> Pronouns: </b> He/Him <br/>
