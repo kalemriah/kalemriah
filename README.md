@@ -4,7 +4,7 @@
 <a href="https://github.com/kalemriah/Using-Microsoft-Azure-to-host-Windows-Active-Directory-lab">Using Microsoft Azure to host Windows Active Directory</a> <br/>
 <LI>An active directory lab with two domain controllers hosted on Microsoft Azure <br/>
 <a href="https://github.com/kalemriah/Active-directory-basics">Active Directory Basics</a> <br/>
-<LI>A brief summary of active directory topics. DHCP, DNS, Organizational Units, DHCP Scopes, DHCP Range, and importance of these protocols.</UL>
+<LI>A brief summary of active directory topics. DHCP, DNS, Organizational Units, DHCP Scopes, DHCP Range, and importance.</UL>
 <UL>&emsp;<b>Ticketing systems</b><br/>
 <a href="https://github.com/kalemriah/Azure-Ticketing-System-Lab-Jira-">Azure Jira Lab (Ticketing System)</a><br/>
 <LI>Microsoft Azure VM running Jira ticketing system lab to further skill sets<br/></UL>
