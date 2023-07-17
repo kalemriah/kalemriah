@@ -11,14 +11,13 @@
   <h2> About Me </h2><br/>
   <b>Professional Summary</b><br/>
   
-- I am a highly skilled and experienced IT professional with a proven track record of success. I am known for my calm and positive demeanor, my unwavering loyalty, and my strong sense of responsibility. I am highly competent in achieving goals and providing exceptional support while maintaining integrity and demonstrating empathy towards colleagues and clients.
+- Experienced Barista/Customer Service Professional transitioning into IT Support. Self-taught using available resources such as Google, A.I., and Virtual Machines. I have a huge interest in cybersecurity and leverage that interest to further my general IT knowledge. 
 
 
 
-<b>Work/Technical Skills & Certifications</b><br/>
+<b>Certifications</b><br/>
 
 
-- Customer Service/ Team Training and Development/ Operational Efficiency/ Time Management/Multitasking/ Adaptability/ Active Directory/ Virtual Machines/ Square POS/ Jira Ticketing System/ Basic Troubleshooting/ Azure basics (VMs, resource groups, virtual networks) <br/>
 - CompTIA A+ Certified (April 2023 - April 2026)<br/>
 - Currently enrolled in Google Cybersecurity Professional Certificate (Start date 6/11/23)<br/>
  <br/>
