@@ -1,13 +1,22 @@
 # Hi there 👋 my name is Kalem Wallace<br/>
 <h2>Information Technology Projects!</h2><br/>
-<UL>&emsp;<b>Active Directory</b><br/>
+<h3>Help Desk/ Active Directory Labs</h3>
+<b>Active Directory</b><br/>
 <a href="https://github.com/kalemriah/Using-Microsoft-Azure-to-host-Windows-Active-Directory-lab">Using Microsoft Azure to host Windows Active Directory</a> <br/>
-<LI>An active directory lab with two domain controllers hosted on Microsoft Azure <br/>
+An active directory lab with two domain controllers hosted on Microsoft Azure <br/>
 <a href="https://github.com/kalemriah/Active-directory-basics">Active Directory Basics</a> <br/>
-<LI>A brief summary of active directory topics. DHCP, DNS, Organizational Units, DHCP Scopes, DHCP Range, and importance.</UL>
-<UL>&emsp;<b>Ticketing systems</b><br/>
+A brief summary of active directory topics. DHCP, DNS, Organizational Units, DHCP Scopes, DHCP Range, and importance.
+&emsp;<b>Ticketing systems</b><br/>
 <a href="https://github.com/kalemriah/Azure-Ticketing-System-Lab-Jira-">Azure Jira Lab (Ticketing System)</a><br/>
-<LI>Microsoft Azure VM running Jira ticketing system lab to further skill sets<br/></UL>
+Microsoft Azure VM running Jira ticketing system lab to further skill sets<br/>
+<h3>Cyber Security Projects</h3>
+<a href="https://github.com/kalemriah/Analyzing-Network-Layer-Communication">Analyzing Network Layer Communication</a><br/>
+A fake scenario where a cybersecurity analyst is tasked with determining which network protocol was affected during a cyber incident using tools such as tcpdump and an ICMP
+
+<a href="https://github.com/kalemriah/Creating-A-Security-Audit">Creating A Security Audit</a><br/>
+A detailed walkthrough on how to create a security audit for a fake company with topics tackled such as Risk Assessment, NIST Cyber Security Framework, and understanding Compliance and Regulation standards
+
+
   <h2> About Me </h2><br/>
   <b>Professional Summary</b><br/>
   
