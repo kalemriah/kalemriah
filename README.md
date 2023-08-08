@@ -19,7 +19,6 @@ A detailed walkthrough on how to create a security audit for a fake company with
 <a href="https://github.com/kalemriah/Analyzing-A-Network-Attack">Analzying A Network Attack</a><br/>
 An activity in which I analyze a network attack and use packet sniffer data from wireshark to analyze the attack. Topics such as: Network intrusion, Wireshark, Reading Network Packets, DoS attacks, DDoS attacks, SYN flood attacks
 
-
   <h2> About Me </h2><br/>
   <b>Professional Summary</b><br/>
   
