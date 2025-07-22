@@ -1,4 +1,21 @@
 # Hi there 👋 my name is Kalem Wallace<br/>
+  <h2> About Me </h2><br/>
+  <b>Professional Summary</b><br/>
+  
+- Experienced Barista/Customer Service Professional transitioning into IT Support. Self-taught using available resources such as Google, A.I., and Virtual Machines. I have a huge interest in cybersecurity and leverage that interest to further my general IT knowledge. 
+
+
+
+<b>Certifications</b><br/>
+
+
+- CompTIA A+ Certified (April 2023 - April 2026)<br/>
+- Currently enrolled in Google Cybersecurity Professional Certificate (Start date 6/11/23)<br/>
+ <br/>
+- 💬<b> Ask me about: </b> My experience with customer service! <br/>
+- 📫<b> How to reach me: </b> Send me a message on <a href="https://www.linkedin.com/in/kalem-wallace-3b499a256/">LinkedIn</a> <br/>
+- ⚡<b> Fun fact: </b> I love skateboarding<p align="center"><img src="https://user-images.githubusercontent.com/111719615/210657996-ffe8fe41-b389-492c-8ddc-05cde142e675.gif" width="100" height="80" /> <br/>
+
 <h2>Information Technology Projects!</h2><br/>
 <h3>Help Desk/ Active Directory Labs</h3>
 <b>Active Directory</b><br/>
@@ -19,23 +36,6 @@ A detailed walkthrough on how to create a security audit for a fake company with
 <a href="https://github.com/kalemriah/Analyzing-A-Network-Attack">Analzying A Network Attack</a><br/>
 An activity in which I analyze a network attack and use packet sniffer data from wireshark to analyze the attack. Topics such as: Network intrusion, Wireshark, Reading Network Packets, DoS attacks, DDoS attacks, SYN flood attacks
 
-  <h2> About Me </h2><br/>
-  <b>Professional Summary</b><br/>
-  
-- Experienced Barista/Customer Service Professional transitioning into IT Support. Self-taught using available resources such as Google, A.I., and Virtual Machines. I have a huge interest in cybersecurity and leverage that interest to further my general IT knowledge. 
-
-
-
-<b>Certifications</b><br/>
-
-
-- CompTIA A+ Certified (April 2023 - April 2026)<br/>
-- Currently enrolled in Google Cybersecurity Professional Certificate (Start date 6/11/23)<br/>
- <br/>
-- 💬<b> Ask me about: </b> My experience with customer service! <br/>
-- 📫<b> How to reach me: </b> Send me a message on <a href="https://www.linkedin.com/in/kalem-wallace-3b499a256/">LinkedIn</a> <br/>
-- 😄<b> Pronouns: </b> He/Him <br/>
-- ⚡<b> Fun fact: </b> I love skateboarding<p align="center"><img src="https://user-images.githubusercontent.com/111719615/210657996-ffe8fe41-b389-492c-8ddc-05cde142e675.gif" width="100" height="80" /> <br/>
 
 
 
