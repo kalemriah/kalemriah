@@ -2,7 +2,7 @@
   <h2> About Me </h2><br/>
   <b>Professional Summary</b><br/>
   
-- Experienced Barista/Customer Service Professional transitioning into IT Support. Self-taught using available resources such as Google, A.I., and Virtual Machines. I have a huge interest in cybersecurity and leverage that interest to further my general IT knowledge. 
+- I’m Kalem Wallace, a tech support specialist with a passion for cybersecurity, web development, and hands-on troubleshooting. I’m currently building a personal portfolio with Docker and nginx, exploring AI tools like Ollama, and studying for the Network+ to move toward Tier 2 or sysadmin roles. I enjoy breaking down complex problems into simple steps and keeping things steady when tech goes sideways. Open to new roles and always up for a good tech chat.
 
 
 
@@ -22,7 +22,7 @@
 <a href="https://github.com/kalemriah/Using-Microsoft-Azure-to-host-Windows-Active-Directory-lab">Using Microsoft Azure to host Windows Active Directory</a> <br/>
 An active directory lab with two domain controllers hosted on Microsoft Azure <br/>
 <a href="https://github.com/kalemriah/Active-directory-basics">Active Directory Basics</a> <br/>
-A brief summary of active directory topics. DHCP, DNS, Organizational Units, DHCP Scopes, DHCP Range, and importance.<br/>
+A brief summary of Active Directory topics. DHCP, DNS, Organizational Units, DHCP Scopes, DHCP Range, and importance.<br/>
 <b>Ticketing systems</b><br/>
 <a href="https://github.com/kalemriah/Azure-Ticketing-System-Lab-Jira-">Azure Jira Lab (Ticketing System)</a><br/>
 Microsoft Azure VM running Jira ticketing system lab to further skill sets<br/>
@@ -34,7 +34,7 @@ A fake scenario where a cybersecurity analyst is tasked with determining which n
 A detailed walkthrough on how to create a security audit for a fake company with topics tackled such as Risk Assessment, NIST Cyber Security Framework, and understanding Compliance and Regulation standards
 
 <a href="https://github.com/kalemriah/Analyzing-A-Network-Attack">Analzying A Network Attack</a><br/>
-An activity in which I analyze a network attack and use packet sniffer data from wireshark to analyze the attack. Topics such as: Network intrusion, Wireshark, Reading Network Packets, DoS attacks, DDoS attacks, SYN flood attacks
+An activity in which I analyze a network attack and use packet sniffer data from Wireshark to analyze the attack. Topics such as: Network intrusion, Wireshark, Reading Network Packets, DoS attacks, DDoS attacks, SYN flood attacks
 
 
 
