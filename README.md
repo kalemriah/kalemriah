@@ -10,7 +10,7 @@
 
 
 - CompTIA A+ Certified (April 2023 - April 2026)<br/>
-- Currently enrolled in Google Cybersecurity Professional Certificate (Start date 6/11/23)<br/>
+- Google Cybersecurity Professional Certificate (October 2023)<br/>
  <br/>
 - 💬<b> Ask me about: </b> My experience with customer service! <br/>
 - 📫<b> How to reach me: </b> Send me a message on <a href="https://www.linkedin.com/in/kalem-wallace-3b499a256/">LinkedIn</a> <br/>
